@@ -7,9 +7,10 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    // 추가적인 속성 이름 지정
     extend: {
       borderRadius: {
-        "sexy-name": "3323 px",
+        "sexy-name": "17.2323px",
       },
     },
   },
